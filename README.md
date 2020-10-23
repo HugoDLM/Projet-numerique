@@ -1,6 +1,11 @@
-Pistes
+Reste à faire :
+- Tâche 2 : Améliorer rendu graphique
+- Q6 : Détailler démarche (calcul du deltax)
+- Q7 : réfléchir sur la fréquence d'apparition des intersections (ou proposer la solution avec condition deux intersections consécutives)
+- Q8 à compléter (juste écrire les solutions)
+- Tâche 7 : prog à écrire (pas de difficultés)
+- Tâche 8 : A faire
 
-- résultat : fermé borné (à démontrer en deux étapes : fermé par critère de l'image réciproque et borné par l'absurbe ?)
-- Penser à un produit scalaire
+```python
 
-Je trouve vraiment rien pour la Q2, j'ai l'impression que la fonction p n'est même pas définie positive.
+```
